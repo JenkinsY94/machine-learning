@@ -1,0 +1,18 @@
+Hey there,
+
+We hope you¡¯re enjoying your time with us so far! Here at Code School, we truly believe that learning by doing is the best way to master a skill, and we offer a few different ways to do that based on your goals.
+
+ Paths
+Paths group courses by topic and offer a roadmap to learn that gradually gets more difficult with each step.
+
+ Courses
+Watch a lesson and then apply what you just learned with coding challenges. Great for picking up new skills or practicing those you already have.
+
+ Screencasts
+We have three different types of screencasts that are each crafted for a unique learning goal.
+
+Watch Us Build - Watch as instructors build apps from scratch or download the source code from GitHub and build alongside them.
+Feature Focus - Practical feature builds and development problem solving for well-known sites like Basecamp.
+Code TV - Quick learning snippets for specific technologies and tools.
+Happy learning, 
+Hal at Code School
